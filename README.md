@@ -9,8 +9,8 @@ Classifies Kepler exoplanet data using a PyTorch MLP model.
 1. Clone the repository: `git clone https://github.com/Visha0000/exoplanet-classifier-nasa-challenge`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run locally: `streamlit run app.py`
-4. Deployed app: [Insert Streamlit URL here, e.g., https://exoplanet-classifier-nasa.streamlit.app]
-
+4. Deployed app: https://exoplanet-classifier-nasa-challengegit-erfeu6hhoooufmtn6lwgwn.streamlit.app/
+   
 ## Data
 - **CSV**: `cumulative_2025.10.03_08.57.32.csv` (available in the repository or at [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative))
 
