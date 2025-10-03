@@ -1,4 +1,4 @@
-#A World Away: Hunting for Exoplanets with AI ( NASA Space Apps Challenge)
+# A World Away: Hunting for Exoplanets with AI ( NASA Space Apps Challenge)
 Classifies Kepler exoplanet data using a PyTorch MLP model.
 
 ## Team Information
