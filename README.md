@@ -3,7 +3,7 @@ Classifies Kepler exoplanet data using a PyTorch MLP model.
 
 ## Team Information
 - **Team Name**: Solo Flow
-- **Member**: Visha0000 (solo participant)
+- **Member**: Vishalakshi (solo participant)
 
 ## Setup
 1. Clone the repository: `git clone https://github.com/Visha0000/exoplanet-classifier-nasa-challenge`
