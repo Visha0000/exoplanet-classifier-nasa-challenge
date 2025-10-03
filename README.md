@@ -20,6 +20,6 @@ Classifies Kepler exoplanet data using a PyTorch MLP model.
 - Retrain with custom hyperparameters.
 - Visualize results with a confusion matrix.
 
-## Demo
-[Insert video link here, e.g., YouTube or Google Drive URL]
+## Demo Video
+https://drive.google.com/file/d/1IzyadQNfsFHowXK5CpFfw0f_6QI7xspt/view?usp=sharing
 
